@@ -1,0 +1,19 @@
+Starting to listen
+Connected from IP 127.0.0.1
+RCVD : SIGN_IN
+SENT : AUTHENTICATED
+Starting to listen
+Connected from IP 127.0.0.1
+RCVD : GROUP_LIST
+SENT : LINE_LIST
+Starting to listen
+Connected from IP 127.0.0.1
+RCVD : GROUP_MESSAGES
+SENT : MESSAGE
+RCVD : NEXT_MESSAGE
+SENT : MESSAGE
+RCVD : NEXT_MESSAGE
+SENT : MESSAGE
+RCVD : NEXT_MESSAGE
+SENT : END
+Starting to listen
